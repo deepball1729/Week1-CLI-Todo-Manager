@@ -1,0 +1,12 @@
+Manual testing checklist
+
+[ ] Add a task with a normal title.
+[ ] Try adding a task with an empty title.
+[ ] View the task list when it is empty.
+[ ] View the task list after adding one or more tasks.
+[ ] Mark an existing task as completed.
+[ ] Try completing a task ID that does not exist.
+[ ] Remove an existing task.
+[ ] Try removing a task ID that does not exist.
+[ ] Enter letters or an out-of-range number at the menu.
+[ ] Restart the program and verify that saved tasks remain.
